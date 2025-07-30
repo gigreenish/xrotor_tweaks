@@ -537,9 +537,7 @@ is defined as follows.
 
 $$ p(t) = Real(\sum_{k=1}^{\infty} C_k e^{-i k \omega t} ) $$  
 
-with   
-
-$\omega = $ blade-passing radian frequency $=$ number of blades $\times$ prop shaft speed
+with $ \omega = $ blade-passing radian frequency $ = $ number of blades $ \times $ prop shaft speed
 
 <!--               inf
    p(t) =  Real [ Sum  C  exp(-ikwt) ]   ;  w = blade-passing radian frequency
